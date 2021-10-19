@@ -467,5 +467,5 @@ PRODUCT_PACKAGES += \
     libwfdaac_vendor \
     vendor.display.config@2.0
 
-PRODUCT_BOOT_JARS += \
-    WfdCommon
+#PRODUCT_BOOT_JARS += \
+#    WfdCommon
